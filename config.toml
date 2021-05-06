@@ -37,6 +37,8 @@ link = "plugins/bootstrap/bootstrap.min.js"
 link = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
 link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
+[[params.plugins.js]]
+link = "https://identity.netlify.com/v1/netlify-identity-widget.js"
 
 
 ###################################### Navigation ######################################
