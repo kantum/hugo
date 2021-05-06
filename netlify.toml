@@ -1,8 +1,7 @@
 [build]
-  publish = "public"
-  command = "hugo --gc"
-  
+command = "hugo --gc"
+publish = "public"
 [build.environment]
-  HUGO_VERSION = "0.73.0"
-  HUGO_THEME = "vex-hugo"
-  HUGO_BASEURL = "/"
+HUGO_BASEURL = "/"
+HUGO_THEME = "vex-hugo"
+HUGO_VERSION = "0.81.0"
