@@ -2,7 +2,6 @@
 baseurl = "http://examplesite.com/"
 title = "Vex | hugo landing page template"
 theme = "vex-hugo"
-themesDir = "../.."
 
 # post excert
 summarylength = "20"
