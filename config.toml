@@ -1,6 +1,6 @@
-baseurl = "http://examplesite.com/"
+baseurl = "https://pascaldurot.com"
 disableLanguages = []
-googleAnalytics = ""
+googleAnalytics = "270165373"
 summarylength = "20"
 theme = "vex-hugo"
 title = "Bienvenue"
@@ -51,7 +51,7 @@ author = "Themefisher"
 contact_form_action = "#"
 currency = "$"
 description = "This is meta description"
-logo = "images/logo.png"
+logo = "images/logo.webp"
 logo_width = "100px"
 snipcart_api = "NDQ0OWRmYzAtMzcxMi00NjgwLWJkODYtNzg1NDljMmViZWIwNjM3NTU4NDg3MjQwOTQ5NDM0"
 [[params.plugins.css]]

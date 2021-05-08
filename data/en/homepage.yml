@@ -1,9 +1,9 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Believe in Technology, Make the change"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
-  image : "images/watch.png"
+  title : "Durot pottery"
+  content : "Since 1990 Pascal Durot make ceramic and sell it in the markets, today he offers you to deliver them directly at your door with this new website"
+  image : "images/potter-oven.webp"
   button:
    enable : true
    label : "Browse All Products"

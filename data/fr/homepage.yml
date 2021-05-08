@@ -1,12 +1,12 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Believe in Technology, Make the change"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
-  image : "images/watch.png"
+  title : "Poterie Durot"
+  content : "Depuis 1990 Pascal Durot fabrique des pots et les vend sur les marchés, aujourd'hui il vous propose de livrer directement chez vous leur plus belles pièces à travers ce tout nouveau site web"
+  image : "images/potter-oven.webp"
   button:
    enable : true
-   label : "Browse All Products"
+   label : "Voir Tous Les Articles"
    link : "products"
 
 ############################# Feature ############################

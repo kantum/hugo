@@ -3,11 +3,11 @@ title: "Contact"
 description : "this is a meta description"
 
 office:
-  title : "Central Office"
-  mobile : "0124857985320"
-  email : "demo@email.com"
-  location : "Dhaka, Bangladedsh"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
+  title : "Contactez-nous"
+  mobile : "+33 6 52 47 47 59"
+  email : "pascalceram@hotmail.fr"
+  location : "Le Fuilet, France"
+  content : "Nous sommes à votre disposition pour toute question ou commentaire, n'hésitez pas à nous contacter"
 
 # opennig hour
 opennig_hour:
