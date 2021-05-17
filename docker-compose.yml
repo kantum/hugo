@@ -1,0 +1,18 @@
+version: "3.8"
+
+services:
+  server:
+    image: klakegg/hugo:0.83.1
+    container_name: hugo-ecommerce
+    command: server
+    volumes:
+      - ".:/src"
+    ports:
+      - "1313:1313"
+    networks:
+      - npm-network
+    environment:
+      - HUGO_ENV=production
+
+networks:
+  npm-network:
