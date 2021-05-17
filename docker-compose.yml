@@ -4,7 +4,7 @@ services:
   server:
     image: klakegg/hugo:0.83.1
     container_name: hugo-ecommerce
-    command: server
+    command: server --gc
     volumes:
       - ".:/src"
     ports:
